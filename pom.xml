@@ -52,6 +52,8 @@
 	</dependencies>
 	
 	<!-- 配置当前工程构建过程中的特殊设置 -->
+	
+	<!-- 这个插件可以将应用打包成一个可执行的jar包 -->
 	<build>
 	
 		<!-- <finalName>xxx</finalName>-->
