@@ -21,6 +21,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
 
 	//配置Swagger的Docket的Bean实例
+	//将方法的返回值添加到容器中
 	@Bean
 	public Docket docket(Environment environment) {
 		
