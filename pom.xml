@@ -67,7 +67,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<!-- 针对插件配置 <configuration></configuration> -->
 				<!-- 配置当前系统中容器的位置 <cntainer></cntainer> -->
-
 			</plugin>
 		</plugins>
 	</build>
